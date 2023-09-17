@@ -7,6 +7,7 @@ namespace ConsoleApp1
         public void Print()
         {
             Console.WriteLine("print customer");
+            Console.WriteLine("tyson.com");
         }
     }
 }
